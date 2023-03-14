@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description: 
+This is a text converting website where entered text can be converted to uppercase, lowercase, remove spaces , copy text. Some more different features can also be added. The Website also contains functionality of enabling dark mode. It made use of bootstrap components for the the visible UI.
+
+Output:
+
+![Screenshot (156)](https://user-images.githubusercontent.com/112814641/224938988-5ce63d64-a6b6-4e2a-9f40-7ce24bd96a53.png)
+
+
+![Screenshot (157)](https://user-images.githubusercontent.com/112814641/224939020-524b93be-d694-48f2-a5fa-dbd6c42e9fa9.png)
 
 ## Available Scripts
 
